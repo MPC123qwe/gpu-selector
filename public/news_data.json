@@ -1,0 +1,1492 @@
+[
+  {
+    "id": 1,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I A2",
+    "title": "2025年华为中国合作伙伴大会发布",
+    "date": "2025年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-a2 | https://www.hiascend.com/hardware/accelerator-card"
+  },
+  {
+    "id": 2,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I A2",
+    "title": "已适配DeepSeek V3",
+    "date": "2025年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-a2 | https://www.hiascend.com/hardware/accelerator-card"
+  },
+  {
+    "id": 3,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I A2",
+    "title": "R1系列模型",
+    "date": "2025年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-a2 | https://www.hiascend.com/hardware/accelerator-card"
+  },
+  {
+    "id": 4,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I A2",
+    "title": "60+伙伴基于昇腾打造DeepSeek一体机",
+    "date": "2025年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-a2 | https://www.hiascend.com/hardware/accelerator-card"
+  },
+  {
+    "id": 5,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 200I A2",
+    "title": "2024年发布8GB和4GB新规格",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.hiascend.com/hardware/accelerator-module-A2 | https://support.huawei.com/enterprise/zh/doc/EDOC1100304819"
+  },
+  {
+    "id": 6,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 200I A2",
+    "title": "已广泛用于智能制造和机器人场景",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.hiascend.com/hardware/accelerator-module-A2 | https://support.huawei.com/enterprise/zh/doc/EDOC1100304819"
+  },
+  {
+    "id": 7,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 200I A2",
+    "title": "多款第三方开发套件上市",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.hiascend.com/hardware/accelerator-module-A2 | https://support.huawei.com/enterprise/zh/doc/EDOC1100304819"
+  },
+  {
+    "id": 8,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V 视频解析卡",
+    "title": "广泛应用于智慧城市和智能交通场景",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v | https://www.hiascend.com/document/detail/zh/300Vtest/300VG/300V_0004.html"
+  },
+  {
+    "id": 9,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V 视频解析卡",
+    "title": "100路1080P视频实时分析能力突出",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v | https://www.hiascend.com/document/detail/zh/300Vtest/300VG/300V_0004.html"
+  },
+  {
+    "id": 10,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V 视频解析卡",
+    "title": "与CANN深度整合",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v | https://www.hiascend.com/document/detail/zh/300Vtest/300VG/300V_0004.html"
+  },
+  {
+    "id": 11,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V Pro 视频解析卡",
+    "title": "300V升级版内存在24GB→48GB",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v-pro | https://support.huawei.com/enterprise/zh/doc/EDOC1100209004"
+  },
+  {
+    "id": 12,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V Pro 视频解析卡",
+    "title": "128路1080P解析能力",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v-pro | https://support.huawei.com/enterprise/zh/doc/EDOC1100209004"
+  },
+  {
+    "id": 13,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V Pro 视频解析卡",
+    "title": "安全启动特性",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v-pro | https://support.huawei.com/enterprise/zh/doc/EDOC1100209004"
+  },
+  {
+    "id": 14,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300V Pro 视频解析卡",
+    "title": "广泛部署于智慧城市",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300v-pro | https://support.huawei.com/enterprise/zh/doc/EDOC1100209004"
+  },
+  {
+    "id": 15,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T 训练卡",
+    "title": "作为Atlas 300T Pro的上一代产品",
+    "date": "2021年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100162135 | https://zhuanlan.zhihu.com/p/547678061"
+  },
+  {
+    "id": 16,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T 训练卡",
+    "title": "广泛应用于AI训练场景",
+    "date": "2021年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100162135 | https://zhuanlan.zhihu.com/p/547678061"
+  },
+  {
+    "id": 17,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T 训练卡",
+    "title": "昇腾910芯片验证产品",
+    "date": "2021年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100162135 | https://zhuanlan.zhihu.com/p/547678061"
+  },
+  {
+    "id": 18,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T Pro 训练卡",
+    "title": "FP16算力从220T→280T性能提升27%",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100260610 | https://juejin.cn/post/7125714150344359944 | https://www.sohu.com/a/981671530_121711272"
+  },
+  {
+    "id": 19,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T Pro 训练卡",
+    "title": "同功耗不变",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100260610 | https://juejin.cn/post/7125714150344359944 | https://www.sohu.com/a/981671530_121711272"
+  },
+  {
+    "id": 20,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T Pro 训练卡",
+    "title": "已被昇腾910B系列逐步替代",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100260610 | https://juejin.cn/post/7125714150344359944 | https://www.sohu.com/a/981671530_121711272"
+  },
+  {
+    "id": 21,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300T Pro 训练卡",
+    "title": "广泛应用于互联网和金融AI训练",
+    "date": "2023-2024年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://support.huawei.com/enterprise/zh/doc/EDOC1100260610 | https://juejin.cn/post/7125714150344359944 | https://www.sohu.com/a/981671530_121711272"
+  },
+  {
+    "id": 22,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S2000",
+    "title": "2022年发布基于MUSA-Chunxiao架构",
+    "date": "",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S2000 | https://www.topcpu.net/cpu/moore-threads-mtt-s2000"
+  },
+  {
+    "id": 23,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S2000",
+    "title": "12nm制程",
+    "date": "",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S2000 | https://www.topcpu.net/cpu/moore-threads-mtt-s2000"
+  },
+  {
+    "id": 24,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S2000",
+    "title": "4096 MUSA核心",
+    "date": "",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S2000 | https://www.topcpu.net/cpu/moore-threads-mtt-s2000"
+  },
+  {
+    "id": 25,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S2000",
+    "title": "面向智算中心全功能场景",
+    "date": "",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S2000 | https://www.topcpu.net/cpu/moore-threads-mtt-s2000"
+  },
+  {
+    "id": 26,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S5000",
+    "title": "2026年5月通过国家《安全可靠测评》",
+    "date": "2026年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://zhidx.com/p/534869.html | https://www.mthreads.com/product/S5000"
+  },
+  {
+    "id": 27,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S5000",
+    "title": "率先适配GLM-5大模型",
+    "date": "2026年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://zhidx.com/p/534869.html | https://www.mthreads.com/product/S5000"
+  },
+  {
+    "id": 28,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S5000",
+    "title": "全面适配Qwen3.5系列三款新模型",
+    "date": "2026年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://zhidx.com/p/534869.html | https://www.mthreads.com/product/S5000"
+  },
+  {
+    "id": 29,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S5000",
+    "title": "原生支持DeepSeek-V4 Day-0",
+    "date": "2026年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://zhidx.com/p/534869.html | https://www.mthreads.com/product/S5000"
+  },
+  {
+    "id": 30,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-S4",
+    "title": "MLU370-S4广泛应用于智慧城市视频分析场景",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方+供应商",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=365 | http://www.cloudhin.com/xk/showproduct.php?id=271"
+  },
+  {
+    "id": 31,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-S4",
+    "title": "提供3倍于同尺寸GPU的解码能力",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方+供应商",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=365 | http://www.cloudhin.com/xk/showproduct.php?id=271"
+  },
+  {
+    "id": 32,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-S4",
+    "title": "性价比突出被多个云服务商采用",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方+供应商",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=365 | http://www.cloudhin.com/xk/showproduct.php?id=271"
+  },
+  {
+    "id": 33,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X4",
+    "title": "MLU370-X4推训一体卡被多个AI服务商采用",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=371"
+  },
+  {
+    "id": 34,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X4",
+    "title": "支持BF16训练精度",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=371"
+  },
+  {
+    "id": 35,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X4",
+    "title": "生态持续丰富中",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=371"
+  },
+  {
+    "id": 36,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X8",
+    "title": "MLU370-X8首发MLU-Link多芯互联技术",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=406"
+  },
+  {
+    "id": 37,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X8",
+    "title": "支持4卡全互联8芯配置",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=406"
+  },
+  {
+    "id": 38,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU370-X8",
+    "title": "寒武纪训练生态旗舰产品",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://cambricon.com/index.php?m=content&c=index&a=lists&catid=406"
+  },
+  {
+    "id": 42,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R100",
+    "title": "百度昆仑芯2代XPU-R架构发布",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2837.html"
+  },
+  {
+    "id": 43,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R100",
+    "title": "智慧交通和工业质检场景广泛部署",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2837.html"
+  },
+  {
+    "id": 44,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R100",
+    "title": "百度搜索业务自用大规模替代GPU",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2837.html"
+  },
+  {
+    "id": 45,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R200",
+    "title": "R200加速卡被广泛用于百度云AI推理服务",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方+百科",
+    "link": "https://baike.baidu.com/item/昆仑芯AI加速卡R200/61621332 | https://www.kunlunxin.com/product/274.html"
+  },
+  {
+    "id": 46,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R200",
+    "title": "支持R480-X8 8卡加速器组",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方+百科",
+    "link": "https://baike.baidu.com/item/昆仑芯AI加速卡R200/61621332 | https://www.kunlunxin.com/product/274.html"
+  },
+  {
+    "id": 47,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R200",
+    "title": "适配飞腾CPU加麒麟OS国产信创方案",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方+百科",
+    "link": "https://baike.baidu.com/item/昆仑芯AI加速卡R200/61621332 | https://www.kunlunxin.com/product/274.html"
+  },
+  {
+    "id": 48,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "RG800",
+    "title": "百度云AI平台已大规模部署RG800",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2842.html"
+  },
+  {
+    "id": 49,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "RG800",
+    "title": "用于搜索推荐系统加速",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2842.html"
+  },
+  {
+    "id": 50,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "RG800",
+    "title": "适配飞腾+麒麟国产化方案",
+    "date": "2022-2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/product/2842.html"
+  },
+  {
+    "id": 51,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R480-X8",
+    "title": "百度自用大规模替代GPU用于搜索和AI业务",
+    "date": "2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/wp-content/uploads/2023/02/r480..pdf | https://baike.baidu.com/item/昆仑芯AI加速器组R480-X8/61649273"
+  },
+  {
+    "id": 52,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R480-X8",
+    "title": "百度云AI平台提供R480-X8算力服务",
+    "date": "2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/wp-content/uploads/2023/02/r480..pdf | https://baike.baidu.com/item/昆仑芯AI加速器组R480-X8/61649273"
+  },
+  {
+    "id": 53,
+    "vendor": "昆仑芯 (Kunlunxin/百度)",
+    "model": "R480-X8",
+    "title": "昆仑芯3代P800旗舰已上市",
+    "date": "2023年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.kunlunxin.com/wp-content/uploads/2023/02/r480..pdf | https://baike.baidu.com/item/昆仑芯AI加速器组R480-X8/61649273"
+  },
+  {
+    "id": 69,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Pro",
+    "title": "华为已推出基于310P的新一代推理卡",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300-ai"
+  },
+  {
+    "id": 70,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Pro",
+    "title": "广泛应用于智慧城市智慧交通场景",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300-ai"
+  },
+  {
+    "id": 71,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Pro",
+    "title": "与CANN深度整合持续迭代",
+    "date": "2022年",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300-ai"
+  },
+  {
+    "id": 72,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Duo",
+    "title": "已推出96GB大容量版本",
+    "date": "2024-2025年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 73,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Duo",
+    "title": "双310P芯片设计",
+    "date": "2024-2025年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 74,
+    "vendor": "华为 (Huawei)",
+    "model": "Atlas 300I Duo",
+    "title": "256路1080P视频解码能力突出",
+    "date": "2024-2025年",
+    "credibility": "高",
+    "source": "官方+媒体",
+    "link": "https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 75,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "910B1",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 76,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "B2",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 77,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "B3",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 78,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "B4多版本已量产",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 79,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "广泛应用于政务金融行业",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 80,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910B",
+    "title": "Atlas900超节点累计部署超300套",
+    "date": "2021-2025年",
+    "credibility": "高",
+    "source": "官方+媒体+供应商",
+    "link": "https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/ | https://www.eet-china.com/mp/a486527.html"
+  },
+  {
+    "id": 106,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T20",
+    "title": "2021年7月发布第二代训练芯片邃思2.0",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/chanpin1/209 | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 107,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T20",
+    "title": "已支持数千卡集群互联",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/chanpin1/209 | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 108,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T20",
+    "title": "被多个行业客户采用",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/chanpin1/209 | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 109,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T21",
+    "title": "8000+张T21组成的云燧智算集群2.0",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/product-technologies/T21/ | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 110,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T21",
+    "title": "单精度最高1.3EFLOPS",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/product-technologies/T21/ | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 111,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T21",
+    "title": "面向超大规模AI训练场景",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://www.enflame-tech.com/product-technologies/T21/ | https://www.eefocus.com/article/498969.html"
+  },
+  {
+    "id": 138,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i20",
+    "title": "2021年发布第二代推理",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i20/59510967 | https://cloud.tencent.com/developer/news/881730"
+  },
+  {
+    "id": 139,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i20",
+    "title": "已有多个数据中心大规模部署",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i20/59510967 | https://cloud.tencent.com/developer/news/881730"
+  },
+  {
+    "id": 140,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i20",
+    "title": "支持多用户并发推理",
+    "date": "",
+    "credibility": "高",
+    "source": "官方",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i20/59510967 | https://cloud.tencent.com/developer/news/881730"
+  },
+  {
+    "id": 39,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU590 (思元590)",
+    "title": "2025年能效比超越英伟达H20创纪录",
+    "date": "2024-2025年",
+    "credibility": "中 (多来源数据不一致)",
+    "source": "官方+媒体+供应商 (数据冲突)",
+    "link": "https://eet-china.com/mp/a404728.html | https://baike.baidu.com/item/思元590/67245650 | https://xueqiu.com/2879270135/387691135"
+  },
+  {
+    "id": 40,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU590 (思元590)",
+    "title": "中科曙光已部署超5000台搭载MLU590集群",
+    "date": "2024-2025年",
+    "credibility": "中 (多来源数据不一致)",
+    "source": "官方+媒体+供应商 (数据冲突)",
+    "link": "https://eet-china.com/mp/a404728.html | https://baike.baidu.com/item/思元590/67245650 | https://xueqiu.com/2879270135/387691135"
+  },
+  {
+    "id": 41,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU590 (思元590)",
+    "title": "2026年万卡级推理集群规模部署中",
+    "date": "2024-2025年",
+    "credibility": "中 (多来源数据不一致)",
+    "source": "官方+媒体+供应商 (数据冲突)",
+    "link": "https://eet-china.com/mp/a404728.html | https://baike.baidu.com/item/思元590/67245650 | https://xueqiu.com/2879270135/387691135"
+  },
+  {
+    "id": 54,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦思N100",
+    "title": "2023年量产",
+    "date": "2023年",
+    "credibility": "中 (大量参数未公开)",
+    "source": "媒体+官方",
+    "link": "https://5g.elecfans.com/d/2213644.html | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 55,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦思N100",
+    "title": "广泛应用于云端推理场景",
+    "date": "2023年",
+    "credibility": "中 (大量参数未公开)",
+    "source": "媒体+官方",
+    "link": "https://5g.elecfans.com/d/2213644.html | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 56,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦思N100",
+    "title": "与和鲸科技完成ModelWhale兼容测试",
+    "date": "2023年",
+    "credibility": "中 (大量参数未公开)",
+    "source": "媒体+官方",
+    "link": "https://5g.elecfans.com/d/2213644.html | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 57,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (PCIe版)",
+    "title": "2024年量产",
+    "date": "2024年",
+    "credibility": "中 (多来源推测，参数不够官方)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958 | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 58,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (PCIe版)",
+    "title": "已有搭载C500的服务器方案",
+    "date": "2024年",
+    "credibility": "中 (多来源推测，参数不够官方)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958 | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 59,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (PCIe版)",
+    "title": "与和鲸科技完成兼容性测试",
+    "date": "2024年",
+    "credibility": "中 (多来源推测，参数不够官方)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958 | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 60,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (PCIe版)",
+    "title": "C600",
+    "date": "2024年",
+    "credibility": "中 (多来源推测，参数不够官方)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958 | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 61,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (PCIe版)",
+    "title": "C700旗舰系列规划中",
+    "date": "2024年",
+    "credibility": "中 (多来源推测，参数不够官方)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958 | https://www.metax-tech.com/prod.html"
+  },
+  {
+    "id": 62,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (OAM版)",
+    "title": "2024年量产OAM版本",
+    "date": "2024年",
+    "credibility": "中 (第三方来源，非官方确认)",
+    "source": "媒体/供应商",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958"
+  },
+  {
+    "id": 63,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (OAM版)",
+    "title": "已有多家服务器厂商采用",
+    "date": "2024年",
+    "credibility": "中 (第三方来源，非官方确认)",
+    "source": "媒体/供应商",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958"
+  },
+  {
+    "id": 64,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (OAM版)",
+    "title": "沐曦C600",
+    "date": "2024年",
+    "credibility": "中 (第三方来源，非官方确认)",
+    "source": "媒体/供应商",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958"
+  },
+  {
+    "id": 65,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C500 (OAM版)",
+    "title": "C700旗舰对标H100规划中",
+    "date": "2024年",
+    "credibility": "中 (第三方来源，非官方确认)",
+    "source": "媒体/供应商",
+    "link": "https://blog.csdn.net/huhu2k/article/details/147539958"
+  },
+  {
+    "id": 66,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "N260",
+    "title": "与和鲸科技完成兼容性测试",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+媒体 (参数较少)",
+    "link": "https://www.metax-tech.com/prod.html | https://xueqiu.com/7304836490/366788356"
+  },
+  {
+    "id": 67,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "N260",
+    "title": "定位中端推理市场",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+媒体 (参数较少)",
+    "link": "https://www.metax-tech.com/prod.html | https://xueqiu.com/7304836490/366788356"
+  },
+  {
+    "id": 68,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "N260",
+    "title": "沐曦IPO科创板中",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+媒体 (参数较少)",
+    "link": "https://www.metax-tech.com/prod.html | https://xueqiu.com/7304836490/366788356"
+  },
+  {
+    "id": 81,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910C",
+    "title": "华为公布昇腾AI芯片路线图",
+    "date": "2025年",
+    "credibility": "中 (部分参数来自推测)",
+    "source": "官方+媒体+供应商",
+    "link": "https://www.eet-china.com/mp/a486527.html | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 82,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910C",
+    "title": "910C已部署至政务金融行业",
+    "date": "2025年",
+    "credibility": "中 (部分参数来自推测)",
+    "source": "官方+媒体+供应商",
+    "link": "https://www.eet-china.com/mp/a486527.html | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 83,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910C",
+    "title": "Atlas900超节点支持384颗910C芯片",
+    "date": "2025年",
+    "credibility": "中 (部分参数来自推测)",
+    "source": "官方+媒体+供应商",
+    "link": "https://www.eet-china.com/mp/a486527.html | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 84,
+    "vendor": "华为 (Huawei)",
+    "model": "昇腾910C",
+    "title": "2025华为全联接大会公布下一代",
+    "date": "2025年",
+    "credibility": "中 (部分参数来自推测)",
+    "source": "官方+媒体+供应商",
+    "link": "https://www.eet-china.com/mp/a486527.html | https://blog.ailemon.net/2025/05/24/huawei-ascend-npu-params-for-ai/"
+  },
+  {
+    "id": 85,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S3000",
+    "title": "MTT S3000作为摩尔线程智算中心主力产品",
+    "date": "2022-2023年",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://news.mydrivers.com/1/869/869864.htm | https://www.mthreads.com"
+  },
+  {
+    "id": 86,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S3000",
+    "title": "支撑图形渲染和AI推理双场景",
+    "date": "2022-2023年",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://news.mydrivers.com/1/869/869864.htm | https://www.mthreads.com"
+  },
+  {
+    "id": 87,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S3000",
+    "title": "MUSA架构持续迭代",
+    "date": "2022-2023年",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://news.mydrivers.com/1/869/869864.htm | https://www.mthreads.com"
+  },
+  {
+    "id": 88,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S4000",
+    "title": "MTT S4000是摩尔线程第三代MUSA架构产品",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未官方公布)",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S4000 | https://www.ithome.com/0/740/281.htm"
+  },
+  {
+    "id": 89,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S4000",
+    "title": "面向智算中心训推一体场景",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未官方公布)",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S4000 | https://www.ithome.com/0/740/281.htm"
+  },
+  {
+    "id": 90,
+    "vendor": "摩尔线程 (Moore Threads)",
+    "model": "MTT S4000",
+    "title": "已在多个AI项目中使用",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未官方公布)",
+    "source": "官方+媒体",
+    "link": "https://www.mthreads.com/product/S4000 | https://www.ithome.com/0/740/281.htm"
+  },
+  {
+    "id": 91,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU K100/K100AI",
+    "title": "海光DCU在多个超算中心部署",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未公开/推测)",
+    "source": "媒体+供应商 (官方参数极少)",
+    "link": "https://eet-china.com/mp/a404728.html | https://zhidao.baidu.com/question/375126163185876612.html"
+  },
+  {
+    "id": 92,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU K100/K100AI",
+    "title": "支撑科学计算和AI训练",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未公开/推测)",
+    "source": "媒体+供应商 (官方参数极少)",
+    "link": "https://eet-china.com/mp/a404728.html | https://zhidao.baidu.com/question/375126163185876612.html"
+  },
+  {
+    "id": 93,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU K100/K100AI",
+    "title": "受美国技术授权限制供应不确定",
+    "date": "2023-2024年",
+    "credibility": "中 (大量参数未公开/推测)",
+    "source": "媒体+供应商 (官方参数极少)",
+    "link": "https://eet-china.com/mp/a404728.html | https://zhidao.baidu.com/question/375126163185876612.html"
+  },
+  {
+    "id": 94,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓100 (MR-V100)",
+    "title": "天垓100已升级天垓150和天垓150S版本",
+    "date": "2022-2023年",
+    "credibility": "高 (官方公布参数)",
+    "source": "官方+媒体",
+    "link": "https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-tlxltt-zk100 | https://zhuanlan.zhihu.com/p/2023398793224230881"
+  },
+  {
+    "id": 95,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓100 (MR-V100)",
+    "title": "在多个智算中心部署",
+    "date": "2022-2023年",
+    "credibility": "高 (官方公布参数)",
+    "source": "官方+媒体",
+    "link": "https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-tlxltt-zk100 | https://zhuanlan.zhihu.com/p/2023398793224230881"
+  },
+  {
+    "id": 96,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓100 (MR-V100)",
+    "title": "GPU场景训练验证中",
+    "date": "2022-2023年",
+    "credibility": "高 (官方公布参数)",
+    "source": "官方+媒体",
+    "link": "https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-tlxltt-zk100 | https://zhuanlan.zhihu.com/p/2023398793224230881"
+  },
+  {
+    "id": 97,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "智铠100 (MR-V100-I)",
+    "title": "智铠100定位推理场景与天垓100形成训推组合",
+    "date": "2023-2024年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+媒体 (参数较少)",
+    "link": "https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-tlxltt-zk100 | https://ai.gitee.com/docs/compute/clusters_gpu/iluvatar/iluvatar_MR-V100_gpu"
+  },
+  {
+    "id": 98,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "智铠100 (MR-V100-I)",
+    "title": "已在少数AI推理项目中使用",
+    "date": "2023-2024年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+媒体 (参数较少)",
+    "link": "https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-tlxltt-zk100 | https://ai.gitee.com/docs/compute/clusters_gpu/iluvatar/iluvatar_MR-V100_gpu"
+  },
+  {
+    "id": 99,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "BR104",
+    "title": "2022年发布BR100后受美国制裁",
+    "date": "2022年",
+    "credibility": "低 (信息极少且受制裁影响)",
+    "source": "媒体/供应商 (官方信息极少)",
+    "link": "https://baike.baidu.com/item/BR100/61834656 | https://www.toutiao.com/article/7502491966060380724"
+  },
+  {
+    "id": 100,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "BR104",
+    "title": "被列入实体清单",
+    "date": "2022年",
+    "credibility": "低 (信息极少且受制裁影响)",
+    "source": "媒体/供应商 (官方信息极少)",
+    "link": "https://baike.baidu.com/item/BR100/61834656 | https://www.toutiao.com/article/7502491966060380724"
+  },
+  {
+    "id": 101,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "BR104",
+    "title": "产品量产和交付情况不明",
+    "date": "2022年",
+    "credibility": "低 (信息极少且受制裁影响)",
+    "source": "媒体/供应商 (官方信息极少)",
+    "link": "https://baike.baidu.com/item/BR100/61834656 | https://www.toutiao.com/article/7502491966060380724"
+  },
+  {
+    "id": 102,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "BR104",
+    "title": "壁仞转向合规化运营",
+    "date": "2022年",
+    "credibility": "低 (信息极少且受制裁影响)",
+    "source": "媒体/供应商 (官方信息极少)",
+    "link": "https://baike.baidu.com/item/BR100/61834656 | https://www.toutiao.com/article/7502491966060380724"
+  },
+  {
+    "id": 103,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T10",
+    "title": "2019年12月发布首款AI训练产品",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://blog.csdn.net/wujianing_110117/article/details/114187366 | https://m.36kr.com/p/1724836020225"
+  },
+  {
+    "id": 104,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T10",
+    "title": "2020年Q1上市并大规模量产",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://blog.csdn.net/wujianing_110117/article/details/114187366 | https://m.36kr.com/p/1724836020225"
+  },
+  {
+    "id": 105,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧 T10",
+    "title": "为燧原奠定软件生态基础",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://blog.csdn.net/wujianing_110117/article/details/114187366 | https://m.36kr.com/p/1724836020225"
+  },
+  {
+    "id": 112,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU Z100 (深算二号)",
+    "title": "深算二号在多个超算中心部署验证",
+    "date": "2022年",
+    "credibility": "中 (部分参数推测)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/thesky123456/article/details/147719977 | https://zhuanlan.zhihu.com/p/538493388"
+  },
+  {
+    "id": 113,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU Z100 (深算二号)",
+    "title": "FP32性能达A100约80%",
+    "date": "2022年",
+    "credibility": "中 (部分参数推测)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/thesky123456/article/details/147719977 | https://zhuanlan.zhihu.com/p/538493388"
+  },
+  {
+    "id": 114,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU Z100 (深算二号)",
+    "title": "受美国技术限制后供应受影响",
+    "date": "2022年",
+    "credibility": "中 (部分参数推测)",
+    "source": "媒体+官方",
+    "link": "https://blog.csdn.net/thesky123456/article/details/147719977 | https://zhuanlan.zhihu.com/p/538493388"
+  },
+  {
+    "id": 115,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU Z100L (半高版)",
+    "title": "Z100L作为V100国产替代在信创市场有一定份额",
+    "date": "2022-2023年",
+    "credibility": "中 (部分参数推测)",
+    "source": "媒体+供应商",
+    "link": "http://www.orihard.com/product/763.htm | https://zhuanlan.zhihu.com/p/627707065"
+  },
+  {
+    "id": 116,
+    "vendor": "海光 (Hygon)",
+    "model": "DCU Z100L (半高版)",
+    "title": "半高设计适合高密度推理部署",
+    "date": "2022-2023年",
+    "credibility": "中 (部分参数推测)",
+    "source": "媒体+供应商",
+    "link": "http://www.orihard.com/product/763.htm | https://zhuanlan.zhihu.com/p/627707065"
+  },
+  {
+    "id": 117,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓150 (BI-V150)",
+    "title": "天垓150已在多个智算中心部署",
+    "date": "2024-2025年",
+    "credibility": "中 (核心算力值未官方公布，来源媒体评测)",
+    "source": "官方+媒体评测",
+    "link": "https://moark.com/docs/compute/clusters_gpu/iluvatar/iluvatar_BI-V150_gpu | https://post.smzdm.com/zz/p/ax6rll42/"
+  },
+  {
+    "id": 118,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓150 (BI-V150)",
+    "title": "支持PyTorch原生兼容",
+    "date": "2024-2025年",
+    "credibility": "中 (核心算力值未官方公布，来源媒体评测)",
+    "source": "官方+媒体评测",
+    "link": "https://moark.com/docs/compute/clusters_gpu/iluvatar/iluvatar_BI-V150_gpu | https://post.smzdm.com/zz/p/ax6rll42/"
+  },
+  {
+    "id": 119,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓150 (BI-V150)",
+    "title": "2.5D CoWoS先进封装",
+    "date": "2024-2025年",
+    "credibility": "中 (核心算力值未官方公布，来源媒体评测)",
+    "source": "官方+媒体评测",
+    "link": "https://moark.com/docs/compute/clusters_gpu/iluvatar/iluvatar_BI-V150_gpu | https://post.smzdm.com/zz/p/ax6rll42/"
+  },
+  {
+    "id": 120,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "天垓150 (BI-V150)",
+    "title": "在千卡集群中验证",
+    "date": "2024-2025年",
+    "credibility": "中 (核心算力值未官方公布，来源媒体评测)",
+    "source": "官方+媒体评测",
+    "link": "https://moark.com/docs/compute/clusters_gpu/iluvatar/iluvatar_BI-V150_gpu | https://post.smzdm.com/zz/p/ax6rll42/"
+  },
+  {
+    "id": 121,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "智铠MR-V50",
+    "title": "MR-V50已用于语音识别",
+    "date": "2024年",
+    "credibility": "低 (大量参数未公开/推测)",
+    "source": "供应商+媒体",
+    "link": "http://www.skysolidiss.com.cn/static/upload/file/20241010/1728529821504999.pdf | https://blog.csdn.net/zhaoxinfan/article/details/155077088"
+  },
+  {
+    "id": 122,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "智铠MR-V50",
+    "title": "边缘AI场景",
+    "date": "2024年",
+    "credibility": "低 (大量参数未公开/推测)",
+    "source": "供应商+媒体",
+    "link": "http://www.skysolidiss.com.cn/static/upload/file/20241010/1728529821504999.pdf | https://blog.csdn.net/zhaoxinfan/article/details/155077088"
+  },
+  {
+    "id": 123,
+    "vendor": "天数智芯 (Iluvatar)",
+    "model": "智铠MR-V50",
+    "title": "支持whisper-large-v3模型推理",
+    "date": "2024年",
+    "credibility": "低 (大量参数未公开/推测)",
+    "source": "供应商+媒体",
+    "link": "http://www.skysolidiss.com.cn/static/upload/file/20241010/1728529821504999.pdf | https://blog.csdn.net/zhaoxinfan/article/details/155077088"
+  },
+  {
+    "id": 124,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU690 (思元690)",
+    "title": "2026年初思元690实现量产",
+    "date": "2026年",
+    "credibility": "低 (研报数据，官方未正式公布完整参数)",
+    "source": "券商研报+媒体 (官方未正式公开)",
+    "link": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/831133396021/index.phtml | https://blog.51cto.com/u_10819805/14632220"
+  },
+  {
+    "id": 125,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU690 (思元690)",
+    "title": "已用于万亿参数大模型训练",
+    "date": "2026年",
+    "credibility": "低 (研报数据，官方未正式公布完整参数)",
+    "source": "券商研报+媒体 (官方未正式公开)",
+    "link": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/831133396021/index.phtml | https://blog.51cto.com/u_10819805/14632220"
+  },
+  {
+    "id": 126,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU690 (思元690)",
+    "title": "5D混合并行支持",
+    "date": "2026年",
+    "credibility": "低 (研报数据，官方未正式公布完整参数)",
+    "source": "券商研报+媒体 (官方未正式公开)",
+    "link": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/831133396021/index.phtml | https://blog.51cto.com/u_10819805/14632220"
+  },
+  {
+    "id": 127,
+    "vendor": "寒武纪 (Cambricon)",
+    "model": "MLU690 (思元690)",
+    "title": "支持通信计算并行推理优化",
+    "date": "2026年",
+    "credibility": "低 (研报数据，官方未正式公布完整参数)",
+    "source": "券商研报+媒体 (官方未正式公开)",
+    "link": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/831133396021/index.phtml | https://blog.51cto.com/u_10819805/14632220"
+  },
+  {
+    "id": 128,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106B (BR106B)",
+    "title": "壁砺106B已开启商用",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+第三方文档",
+    "link": "https://www.birentech.com/product/hardware/106b/ | https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu"
+  },
+  {
+    "id": 129,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106B (BR106B)",
+    "title": "壁仞港股IPO推进中",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+第三方文档",
+    "link": "https://www.birentech.com/product/hardware/106b/ | https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu"
+  },
+  {
+    "id": 130,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106B (BR106B)",
+    "title": "受美国制裁影响量产规模有限",
+    "date": "2024-2025年",
+    "credibility": "低 (大量参数未公开)",
+    "source": "官方+第三方文档",
+    "link": "https://www.birentech.com/product/hardware/106b/ | https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu"
+  },
+  {
+    "id": 131,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106M (BR106M, OAM)",
+    "title": "壁砺106M已在模力方舟等平台上线",
+    "date": "2022年",
+    "credibility": "中 (部分来自开源文档)",
+    "source": "官方+第三方文档",
+    "link": "https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu | https://zhuanlan.zhihu.com/p/1947937601144202052"
+  },
+  {
+    "id": 132,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106M (BR106M, OAM)",
+    "title": "壁仞港股IPO推进",
+    "date": "2022年",
+    "credibility": "中 (部分来自开源文档)",
+    "source": "官方+第三方文档",
+    "link": "https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu | https://zhuanlan.zhihu.com/p/1947937601144202052"
+  },
+  {
+    "id": 133,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106M (BR106M, OAM)",
+    "title": "受美国制裁影响量产规模有限",
+    "date": "2022年",
+    "credibility": "中 (部分来自开源文档)",
+    "source": "官方+第三方文档",
+    "link": "https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu | https://zhuanlan.zhihu.com/p/1947937601144202052"
+  },
+  {
+    "id": 134,
+    "vendor": "壁仞科技 (BirenTech)",
+    "model": "壁砺106M (BR106M, OAM)",
+    "title": "已通过国密一级安全认证",
+    "date": "2022年",
+    "credibility": "中 (部分来自开源文档)",
+    "source": "官方+第三方文档",
+    "link": "https://ai.gitee.com/docs/compute/clusters_gpu/biren_gpu | https://zhuanlan.zhihu.com/p/1947937601144202052"
+  },
+  {
+    "id": 135,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i10",
+    "title": "2020年12月发布",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i10/59760275 | https://m.36kr.com/p/1020274791925001"
+  },
+  {
+    "id": 136,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i10",
+    "title": "2021年Q1量产上市",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i10/59760275 | https://m.36kr.com/p/1020274791925001"
+  },
+  {
+    "id": 137,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧i10",
+    "title": "为燧原推理产品线奠基",
+    "date": "",
+    "credibility": "中 (部分参数未公开)",
+    "source": "官方+媒体",
+    "link": "https://baike.baidu.com/item/%E4%BA%91%E7%87%A7i10/59760275 | https://m.36kr.com/p/1020274791925001"
+  },
+  {
+    "id": 141,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧S60",
+    "title": "2024年发布第三代推理",
+    "date": "2024年",
+    "credibility": "中 (官方定位明确但核心参数未尽公开)",
+    "source": "官方 (参数部分不透明)",
+    "link": "https://www.enflame-tech.com/s60 | https://support.enflame-tech.com/onlinedoc_hw/5-s6x/S60/index.html"
+  },
+  {
+    "id": 142,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧S60",
+    "title": "已有7万+卡落地",
+    "date": "2024年",
+    "credibility": "中 (官方定位明确但核心参数未尽公开)",
+    "source": "官方 (参数部分不透明)",
+    "link": "https://www.enflame-tech.com/s60 | https://support.enflame-tech.com/onlinedoc_hw/5-s6x/S60/index.html"
+  },
+  {
+    "id": 143,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧S60",
+    "title": "DeepSeek一体机方案",
+    "date": "2024年",
+    "credibility": "中 (官方定位明确但核心参数未尽公开)",
+    "source": "官方 (参数部分不透明)",
+    "link": "https://www.enflame-tech.com/s60 | https://support.enflame-tech.com/onlinedoc_hw/5-s6x/S60/index.html"
+  },
+  {
+    "id": 144,
+    "vendor": "燧原科技 (Enflame)",
+    "model": "云燧S60",
+    "title": "支持200+主流模型",
+    "date": "2024年",
+    "credibility": "中 (官方定位明确但核心参数未尽公开)",
+    "source": "官方 (参数部分不透明)",
+    "link": "https://www.enflame-tech.com/s60 | https://support.enflame-tech.com/onlinedoc_hw/5-s6x/S60/index.html"
+  },
+  {
+    "id": 145,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C600",
+    "title": "2025年WAIC发布",
+    "date": "2025年",
+    "credibility": "中 (来自媒体和券商报告，官方细节待确认)",
+    "source": "媒体+官方",
+    "link": "https://www.eet-china.com/mp/a445861.html | https://xueqiu.com/7304836490/366788356 | https://so.html5.qq.com/page/real/search_news?docid=70000021_023688753da47852"
+  },
+  {
+    "id": 146,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C600",
+    "title": "首款全国产通用GPU",
+    "date": "2025年",
+    "credibility": "中 (来自媒体和券商报告，官方细节待确认)",
+    "source": "媒体+官方",
+    "link": "https://www.eet-china.com/mp/a445861.html | https://xueqiu.com/7304836490/366788356 | https://so.html5.qq.com/page/real/search_news?docid=70000021_023688753da47852"
+  },
+  {
+    "id": 147,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C600",
+    "title": "已在中科院千卡集群完成大模型全参数训练",
+    "date": "2025年",
+    "credibility": "中 (来自媒体和券商报告，官方细节待确认)",
+    "source": "媒体+官方",
+    "link": "https://www.eet-china.com/mp/a445861.html | https://xueqiu.com/7304836490/366788356 | https://so.html5.qq.com/page/real/search_news?docid=70000021_023688753da47852"
+  },
+  {
+    "id": 148,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C600",
+    "title": "科创板IPO推进中",
+    "date": "2025年",
+    "credibility": "中 (来自媒体和券商报告，官方细节待确认)",
+    "source": "媒体+官方",
+    "link": "https://www.eet-china.com/mp/a445861.html | https://xueqiu.com/7304836490/366788356 | https://so.html5.qq.com/page/real/search_news?docid=70000021_023688753da47852"
+  },
+  {
+    "id": 149,
+    "vendor": "沐曦科技 (MetaX)",
+    "model": "曦云C600",
+    "title": "标志国产GPU具备预训练能力",
+    "date": "2025年",
+    "credibility": "中 (来自媒体和券商报告，官方细节待确认)",
+    "source": "媒体+官方",
+    "link": "https://www.eet-china.com/mp/a445861.html | https://xueqiu.com/7304836490/366788356 | https://so.html5.qq.com/page/real/search_news?docid=70000021_023688753da47852"
+  }
+]
